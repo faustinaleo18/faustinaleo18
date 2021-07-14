@@ -26,10 +26,10 @@ Hello, my name is Faustina Leonita, an undergraduate student who was interested 
 </p>
 
 ### Github Stats
-![Faustina Leo's GitHub stats](https://github-readme-stats.vercel.app/api?username=faustinaleo18&show_icons=true&theme=omni)
+![Faustina Leo's GitHub stats](https://github-readme-stats.vercel.app/api?username=faustinaleo18&show_icons=true&theme=tokyonight)
 
 ### Most language I used
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=faustinaleo18)](https://github.com/faustinaleo18/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=faustinaleo18&show_icons=true&theme=tokyonight)](https://github.com/faustinaleo18/github-readme-stats)
 
 ### Reach me on
 [![Linkedin][1.1]][1] [![Twitter][1.2]][2] [![Instagram][1.3]][3] [![Stack Overflow][1.4]][4]
