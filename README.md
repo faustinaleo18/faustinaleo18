@@ -28,4 +28,18 @@ Hello, my name is Faustina Leonita, an undergraduate student who was interested 
 ### Github Stats
 ![Faustina Leo's GitHub stats](https://github-readme-stats.vercel.app/api?username=faustinaleo18&show_icons=true&theme=omni)
 
+### Most language I used
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=faustinaleo18)](https://github.com/faustinaleo18/github-readme-stats)
+
 ### Reach me on
+[![Linkedin][1.1]][1] [![Twitter][1.2]][2] [![Instagram][1.3]][3] [![Stack Overflow][1.4]][4]
+
+[1.1]: <img src="https://img.icons8.com/color/32/000000/linkedin.png"/>
+[1.2]: <img src="https://img.icons8.com/color/50/000000/twitter.png"/>
+[1.3]: <img src="https://img.icons8.com/color/50/000000/instagram-new.png"/>
+[1.4]: <img src="https://img.icons8.com/color/50/000000/stackoverflow.png"/>
+
+[1]: https://www.linkedin.com/in/faustina-leonita/
+[2]: https://twitter.com/leo_faustina
+[3]: https://www.instagram.com/leonita.faustin/
+[4]: https://stackoverflow.com/users/15504678/faustina-leonita
