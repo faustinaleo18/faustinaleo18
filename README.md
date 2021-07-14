@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your changes.
 
 # Welcome to My Profile
 
-Hello, my name is Faustina Leonita, an undergraduate student who was interested deeply in data sometimes learning about the websites. Currently learning about MySQL, Git, and Ms. Excel. Love cats 🐱 and nature 🌱
+Hello, my name is Faustina Leonita, an undergraduate student who was interested deeply in data sometimes learning about the websites. Currently learning about MySQL, Git, and Ms. Excel. Love anime, western music, cats 🐱, and nature 🌱
 
 ### Skills
 <p>
