@@ -10,7 +10,7 @@ faustinaleo18/faustinaleo18 is a ✨ special ✨ repository because its `README.
 You can click the Preview link to take a look at your changes.
 --->
 
-# Welcome to My Profile
+# Welcome to My Profile <img src="https://media.giphy.com/media/xUOwGiewfQAm3tcIA8/giphy.gif" width="50">
 
 Hello, my name is Faustina Leonita, an undergraduate student who was interested deeply in data sometimes learning about the websites. Currently learning about MySQL, Git, and Ms. Excel. Love anime, western music, cats 🐱, and nature 🌱
 
