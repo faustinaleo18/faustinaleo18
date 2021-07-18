@@ -26,11 +26,14 @@ Hello, my name is Faustina Leonita, an undergraduate student who was interested 
   <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
 </p>
 
-### Github Stats
+### Github stats
 ![Faustina Leo's GitHub stats](https://github-readme-stats.vercel.app/api?username=faustinaleo18&show_icons=true&theme=tokyonight)
 
 ### Most language I used
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=faustinaleo18&show_icons=true&theme=tokyonight)](https://github.com/faustinaleo18/github-readme-stats)
+
+### Language that I am learning
+[![faustinaleo18's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=faustinaleo18&theme=tokyonight)](https://github.com/faustinaleo18/github-readme-stats)
 
 ### Reach me on
 [![Linkedin][1.1]][1] [![Twitter][1.2]][2] [![Instagram][1.3]][3] [![Stack Overflow][1.4]][4]
