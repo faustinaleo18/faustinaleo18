@@ -38,10 +38,10 @@ Hello, my name is Faustina Leonita, an undergraduate student who was interested 
 ### Reach me on
 [![Linkedin][1.1]][1] [![Twitter][1.2]][2] [![Instagram][1.3]][3] [![Stack Overflow][1.4]][4]
 
-[1.1]: https://img.icons8.com/fluent/50/000000/linkedin.png
-[1.2]: https://img.icons8.com/fluent/50/000000/twitter.png
-[1.3]: https://img.icons8.com/fluent/50/000000/instagram-new.png
-[1.4]: https://img.icons8.com/color/50/000000/stackoverflow.png
+[1.1]: https://img.icons8.com/fluent/48/000000/linkedin.png
+[1.2]: https://img.icons8.com/fluent/48/000000/twitter.png
+[1.3]: https://img.icons8.com/fluent/48/000000/instagram-new.png
+[1.4]: https://img.icons8.com/color/48/000000/stackoverflow.png
 
 [1]: https://www.linkedin.com/in/faustina-leonita/
 [2]: https://twitter.com/leo_faustina
