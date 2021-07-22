@@ -29,9 +29,6 @@ Hello, my name is Faustina Leonita, an undergraduate student who was interested 
 ### Github stats
 ![Faustina Leo's GitHub stats](https://github-readme-stats.vercel.app/api?username=faustinaleo18&show_icons=true&theme=tokyonight)
 
-### Most language I used
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=faustinaleo18&show_icons=true&theme=tokyonight)](https://github.com/faustinaleo18/github-readme-stats)
-
 ### Language that I am learning
 [![faustinaleo18's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=faustinaleo18&theme=tokyonight)](https://github.com/faustinaleo18/github-readme-stats)
 
