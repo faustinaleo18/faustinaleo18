@@ -27,10 +27,10 @@ Hello, my name is Faustina Leonita, an undergraduate student who was interested 
 </p>
   
 ### Github stats
-![Faustina Leo's GitHub stats](https://github-readme-stats.vercel.app/api?username=faustinaleo18&show_icons=true&theme=tokyonight)
+![Faustina Leo's GitHub stats](https://github-readme-stats.vercel.app/api?username=faustinaleo18&show_icons=true&theme=omni)
 
 ### Language that I am learning
-[![faustinaleo18's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=faustinaleo18&theme=tokyonight)](https://github.com/faustinaleo18/github-readme-stats)
+[![faustinaleo18's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=faustinaleo18&theme=omni)](https://github.com/faustinaleo18/github-readme-stats)
 
 ### Reach me on
 [![Linkedin][1.1]][1] [![Twitter][1.2]][2] [![Instagram][1.3]][3] [![Stack Overflow][1.4]][4]
@@ -44,3 +44,9 @@ Hello, my name is Faustina Leonita, an undergraduate student who was interested 
 [2]: https://twitter.com/leo_faustina
 [3]: https://www.instagram.com/leonita.faustin/
 [4]: https://stackoverflow.com/users/15504678/faustina-leonita
+
+### Checkout my projects in below
+<ol>
+  <li><a href="https://faustinaleo18.github.io/faustinaleo18">Faustina's Website</a></li>
+  <li><a href="https://github.com/faustinaleo18/online-survey">Online Survey (Upcoming Projects)</li>
+</ol>
