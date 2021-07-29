@@ -48,5 +48,4 @@ Hello, my name is Faustina Leonita, an undergraduate student who was interested 
 ### Checkout my projects in below
 <ol>
   <li><a href="https://faustinaleo18.github.io/faustinaleo18">Faustina's Website</a></li>
-  <li><a href="https://github.com/faustinaleo18/online-survey">Online Survey (Upcoming Projects)</li>
 </ol>
