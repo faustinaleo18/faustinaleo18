@@ -39,7 +39,7 @@ Hello, my name is Faustina Leonita, an undergraduate student who was interested 
 
 [1]: https://www.linkedin.com/in/faustina-leonita/
 
-### Checkout my projects in below
+### My projects
 <ol>
-  <li><a href="https://faustinaleo18.github.io/faustinaleo18">Faustina's Website</a></li>
+  <li>Student Management Database (hidden)</a></li>
 </ol>
