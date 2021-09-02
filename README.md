@@ -12,18 +12,19 @@ You can click the Preview link to take a look at your changes.
 
 # Welcome to My Profile <img src="https://media.giphy.com/media/xUOwGiewfQAm3tcIA8/giphy.gif" width="50">
 
-Hello, my name is Faustina Leonita, an undergraduate student who was interested deeply in data sometimes learning about the websites. Currently learning about MySQL, PHP, and Ms. Excel. Love anime, western music, cats 🐱, and nature 🌱
+Hello, my name is Faustina Leonita, an undergraduate student who was interested in data sometimes learning about the websites. Currently learning about PHP, Flask, Linux command. Love anime, western music, cats 🐱, and nature 🌱
 
 ### Skills
-<p>
+<p>  
+  <img alt="MSSQL" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" />
   <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
   <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img alt="Microsoft Excel" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+  <img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
   <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
   <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/>
   <img alt="PHP" src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"/>
   <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+  <img alt="Flask" src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" />
 </p>
   
 ### Github stats
