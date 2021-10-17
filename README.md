@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your changes.
 
 # Welcome to My Profile <img src="https://media.giphy.com/media/xUOwGiewfQAm3tcIA8/giphy.gif" width="50">
 
-Hello, my name is Faustina Leonita, an undergraduate student who was interested in data sometimes learning about the websites. Currently learning about PHP, Flask, Apache Airflow, and GCP. Love anime, western music, cats 🐱, and nature 🌱
+Hello, my name is Faustina Leonita, an undergraduate student who was interested in data sometimes learning about the websites. Currently learning about Tkinter. Love anime, western music, cats 🐱, and nature 🌱
 
 ### Skills
 <p>  
