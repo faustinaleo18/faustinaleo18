@@ -44,4 +44,4 @@ Hello, my name is Faustina Leonita, an undergraduate student who was interested 
 
 ### My projects
 * Student Management Database
-* [Simple Contact Apps]
+* Simple Contact Apps
