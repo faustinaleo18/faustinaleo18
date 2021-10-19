@@ -44,4 +44,4 @@ Hello, my name is Faustina Leonita, an undergraduate student who was interested 
 
 ### My projects
 * Student Management Database
-* [Simple Contact Apps](https://github.com/faustinaleo18/hacktoberfest2021/tree/main/Python/Simple-Contacts-Apps)
+* [Simple Contact Apps]
