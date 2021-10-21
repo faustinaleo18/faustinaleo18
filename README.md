@@ -35,13 +35,6 @@ Hello, my name is Faustina Leonita, an undergraduate student who was interested 
 ### Language that I am learning
 [![faustinaleo18's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=faustinaleo18&theme=omni)](https://github.com/faustinaleo18/github-readme-stats)
 
-### Reach me on
-[![Linkedin][1.1]][1]
-
-[1.1]: https://img.icons8.com/fluent/48/000000/linkedin.png
-
-[1]: https://www.linkedin.com/in/faustina-leonita/
-
 ### My projects
 * Student Management Database
 * [Simple Contact App](https://github.com/faustinaleo18/Simple-Contact-App)
