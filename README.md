@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your changes.
 
 # Welcome to My Profile <img src="https://media.giphy.com/media/xUOwGiewfQAm3tcIA8/giphy.gif" width="50">
 
-Hello, my name is Faustina Leonita, an undergraduate student who was interested in petroleum engineering, renewable energy, and IT. Currently still learning deeply about Python. Love anime, western music, cats 🐱, and nature 🌱
+Hello, my name is Faustina Leonita, an undergraduate student who interested and still learning deeply in petroleum engineering, renewable energy, data, and IT related field. Love anime, western music, cats 🐱, and nature 🌱
 
 ### Skills
 <p>  
@@ -21,12 +21,7 @@ Hello, my name is Faustina Leonita, an undergraduate student who was interested 
   <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
   <img alt="Google Cloud" src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white" />
   <img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-  <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
   <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img alt="SQLite" src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white"/>
-  <img alt="PHP" src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"/>
-  <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-  <img alt="Flask" src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" />
 </p>
   
 ### Github stats
