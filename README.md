@@ -31,7 +31,7 @@ Hello, my name is Faustina Leonita, a fresh graduate of petroleum engineering wh
 [![faustinaleo18's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=faustinaleo18&theme=omni)](https://github.com/faustinaleo18/github-readme-stats)
 
 ### My projects
-* Student Management Database (only by request)
+* Student Management Database
 * [Simple Contact App](https://github.com/faustinaleo18/Simple-Contact-App)
 * [Initial Oil in Place Using Numerical Method](https://github.com/faustinaleo18/IOIP-in-Saturated-Reservoir)
 * GEO-SPACE (Geotechnical Soil Profile Correlation Software) 
