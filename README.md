@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your changes.
 
 # Welcome to My Profile <img src="https://media.giphy.com/media/xUOwGiewfQAm3tcIA8/giphy.gif" width="50">
 
-Hello, my name is Faustina Leonita, an undergraduate student who interested and still learning deeply in petroleum engineering, renewable energy, data, and IT related field. Love anime, western, cats 🐱, and nature 🌱
+Hello, my name is Faustina Leonita, a fresh graduate of petroleum engineering who interested petroleum engineering (reservoir and production engineering), geothermal, tech and data field. Love anime, western, cats 🐱, and nature 🌱
 
 ### Skills
 <p>  
