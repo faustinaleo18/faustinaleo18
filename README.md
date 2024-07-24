@@ -34,3 +34,4 @@ Hello, my name is Faustina Leonita, an undergraduate student who interested and 
 * Student Management Database (only by request)
 * [Simple Contact App](https://github.com/faustinaleo18/Simple-Contact-App)
 * [Initial Oil in Place Using Numerical Method](https://github.com/faustinaleo18/IOIP-in-Saturated-Reservoir)
+* GEO-SPACE (Geotechnical Soil Profile Correlation Software) 
