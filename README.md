@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your changes.
 
 # Hello!👋
 
-I am Faustina Leonita, a person from petroleum engineering background who is interested in and passionate to learn petroleum engineering, renewable energy,and data field
+I am Faustina Leonita, a person from petroleum engineering background who is interested in and passionate to learn petroleum engineering, renewable energy, and data field
 
 ### My Tech Stacks
 - Python
