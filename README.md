@@ -25,6 +25,7 @@ I am Faustina Leonita, a person from petroleum engineering background who is int
 - [Initial Oil in Place Using Numerical Method](https://github.com/faustinaleo18/IOIP-in-Saturated-Reservoir)
 - GEO-SPACE (Geotechnical Soil Profile Correlation Software)
 - [Smart Home Energy Usage Prediction](https://github.com/faustinaleo18/ML_Zoomcamp_2024/tree/main/midterm-project)
+- [Rice Leaf Diseases Prediction](https://github.com/faustinaleo18/ML_Zoomcamp_2024/tree/main/capstone_1)
 
 ### Social media
 If you want to ask me about project collaboration, you can reach me on [Linkedin](https://www.linkedin.com/in/faustina-leonita/) and [Email](mailto:faustinaleo18@gmail.com)
